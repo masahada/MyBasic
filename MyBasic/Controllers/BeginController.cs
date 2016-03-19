@@ -11,7 +11,7 @@ namespace MyBasic.Controllers
         // GET: Begin
         public ActionResult Index()
         {
-            return Content("こんにちは、世界！");
+            return Content("hello world");
         }
     }
 }
